@@ -1,6 +1,6 @@
 # Tuqana
 
-With the Tuqana project we built the Telegram-based 'GiulioPortfolioBot' that includes the following functionalities:
+With the Tuqana project we built the Telegram-based ```GiulioPortfolioBot``` that includes the following functionalities:
 
 1. Custom price alerts;
 2. Insider trading alerts;
