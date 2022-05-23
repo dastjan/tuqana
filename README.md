@@ -7,8 +7,8 @@ With the Tuqana project we built the Telegram-based ```GiulioPortfolioBot``` tha
 * Custom price alerts;
 * Insider trading alerts;
 * Press release alerts;
-* Alerts when intraday price deviates 1.5 times standarddeviation from the average;
-* Alerts when intraday volume deviates 1.5 times standarddeviation from the average.
+* Alerts when intraday price deviates 1.5 standarddeviation from the average;
+* Alerts when intraday volume deviates 1.5 standarddeviation from the average.
 
 #### Analysis
 
