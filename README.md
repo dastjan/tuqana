@@ -4,16 +4,17 @@ With the Tuqana project we built the Telegram-based ```GiulioPortfolioBot``` tha
 
 1. Custom price alerts;
 2. Insider trading alerts;
-3. Discounted cash flow analysis;
-4. Discriptive statistics;
-5. Press release alerts;
-6. Alerts when intraday price deviates 1.5 times standarddeviation from the average;
-7. Alerts when intraday volume deviates 1.5 times standarddeviation from the average;
-8. Settings menu where you can set your preferences.
+3. Discounted cash flow analysis (!);
+4. Discriptive statistics analysis;
+5. Markowitz portfolio analysis (!);
+6. Press release alerts;
+7. Alerts when intraday price deviates 1.5 times standarddeviation from the average;
+8. Alerts when intraday volume deviates 1.5 times standarddeviation from the average;
+9. Settings menu where you can set your preferences.
 
 ## Usage
 
-Access the bot via this [link](https://t.me/GiulioPortfolioBot) or search and try to find the ```GiulioPortfolioBot``` on Telegram! You can now interact with the bot!
+Access the bot via this [link](https://t.me/GiulioPortfolioBot) or search and try to find the ```GiulioPortfolioBot``` on Telegram. You can now interact with the bot!
 
 ## Availability
 
